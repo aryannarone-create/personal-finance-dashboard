@@ -1,33 +1,60 @@
-Personal Finance Dashboard
+# Personal Finance Dashboard
 
-A Personal Finance Dashboard built using Python, Streamlit, Pandas, and Matplotlib.
+A Personal Finance Dashboard built using Python, Streamlit, Pandas and Matplotlib.
 
-Features
-Transaction Entry System
-CSV-Based Data Storage
-Financial Summary Dashboard
-Expense Distribution Pie Chart
-Monthly Expense Trend Analysis
-Income vs Expense Comparison
-Budget vs Actual Spending Analysis
-EMI Calculator
-SIP Calculator
-SIP Growth Projection Chart
-Technologies Used
-Python
-Streamlit
-Pandas
-Matplotlib
-Installation
+## Features
+
+- Transaction Entry
+- Transaction History
+- Financial Summary
+- Income vs Expense Analysis
+- Expense Distribution Pie Chart
+- Monthly Expense Trend Chart
+- EMI Calculator
+- SIP Calculator
+- SIP Growth Visualization
+
+## Screenshot
+
+![Dashboard](screenshots/dashboard-overview.png)
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+## Run Locally
+
+```bash
 pip install -r requirements.txt
 streamlit run app.py
-Project Screenshots
 
-(Add screenshots here)
+---
 
-Future Improvements
-PDF Report Export
-Download Transactions as CSV
-Net Worth Tracker
-Streamlit Cloud Deployment
-Advanced Financial Analytics
+### One more improvement before putting this on your resume
+
+Your dashboard currently has:
+
+✅ Transaction Entry  
+✅ Transaction History  
+✅ Financial Summary  
+✅ Expense Distribution Chart  
+✅ Monthly Expense Trend Chart  
+✅ Income vs Expense Chart  
+✅ EMI Calculator  
+✅ SIP Calculator  
+✅ SIP Growth Chart
+
+A very strong final addition would be:
+
+:contentReference[oaicite:0]{index=0}
+
+or
+
+:contentReference[oaicite:1]{index=1}
+
+Either of these would make the project look more complete for placements and internships.
+
+After that, your project is already resume-worthy for a second-year engineering student.
